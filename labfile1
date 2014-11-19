@@ -70,6 +70,70 @@ Pandoc
 try pandoc --V
 
 ———
+Lab Notes Sept. 10
+how can you have an understanding of textuality and be a media theorist without understanding code.
+
+who controls the ecosystem in which you practice?  what structures support our speech--increasingly digital.
+
+TERMINAL
+
+verb goes first in command
+
+pwd--path to working directory
+ls--list contents of 
+ls /bin/
+ls .. list one directory down
+ls ../..
+cd ..
+cd -
+~
+e.g. cd Documents
+mkdir Test
+pushd
+popd
+
+..  (=go up one)
+
+man-- manual
+e.g., man ls
+
+
+h -- help
+q -- quit
+
+cd / home [start typing and then tab completes]
+
+shared computing environment
+
+logging into mainframe computers that serve millions at the same time--gmail, Facebook, 
+terminal emulator--emulates the interface
+
+unix is now a philosophy of operating systems.  eg. android is linux
+has been around and will continue to be in development for your life
+programmers wanted to create programs that operate and produce data streams on plain text.  
+
+code as a textual system--the idea of producing and processing text is 'baked' into the philosophy.  it's not the notion of code that drives unix philosophy.  
+
+unix is 
+>everywhere--laptop, cell phone, other devices
+>long-lasting--will grow with you
+>human friendly
+
+is the source code program open, can you modify it?  proprietary?  
+
+plain text data is portable-- works on many machines 
+plain text is sustainable long term --around for at least half a decade and will last much longer.  as such, it's easy to archive
+
+microsoft word, pdfs, etc are not plain text.  
+
+e.g., pdfs only readable by adobe.  not by humans.  if there is no preservation (e.g. in libraries) of the operating systems and software that render it, it won't be read.
+
+publisher's interest in restricting access.  one license. 
+
+economics of converting text to encoded proprietary..
+
+Sept. 19
+
 Basic Bash Commands
 
 
