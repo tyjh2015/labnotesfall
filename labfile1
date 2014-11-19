@@ -1,3 +1,70 @@
 go, typing fingers, go
 hey hey howdy doo
 if they follow you, don’t look back, like dylan in the movies
+(Marxists) superstructural problems:  
+global imbalances
+production of knowledge--
+to visualize the material conditions of the pathway: from fingers to computer, to how it reaches the viewers, and how texts found their way to you, why you're reading something (over another.)
+
+To think of a document as a vector.   it travels--through space, electrons; through time, etc.
+
+Indeterminacy of a document---
+e.g., editing a document, you may never know when it's finished.  from the writer's to the editors, years later. 
+
+different vectors are ecosystems with different affordances
+the way your email is stored--through gmail as vector--has some affordances, e.g. will back up your emails
+amazon as vector for an ebook.  
+your documents, however, may need to be backed up
+encryption of vectors to protect your privacy
+
+the origin point of all these vectors (email, calendar, documents etc--all which need to be backed up, encrypted, sent, etc--common problems)
+
+a computer is a machine that can emulate any other machine  (CITE?)
+this frees us from the confines of the physical universe
+
+eben moglen--professor of law at Columbia
+says we should own the hardware.   (even though we can't mine silicon)
+we should plug our machines into servers available everywhere, and make our own servers
+
+----
+unify across vectors
+in order to search across vectors, you could keep everything in a plain text file, rather than encrypted.   (non proprietary, long lasting)
+plain text is the most under your control--accessible searchable, etc.   not really apolitical--associated with cyber punk movement
+encryption is classified under military technology under the Espionage Act-- teaching people about encryption is criminal
+plain text enables strong encryption-
+if you want your work to reach places where there is censorship...
+
+
+
+a tech choice that gives you the greatest amount of freedom, in effect.  
+
+
+in microsoft word, we write and format at the same time--form is not separate from content.  if we want to make something italic, we highlight and press the button, and it becomes visible.  
+the formatting must be embedded underneath the content/document.   that formatting layer is proprietary.  the thing that will re-create it is a printer (which flattens content) and MS Word itself.  a rendering engine that goes through your work.  
+
+typesetting---strips the formatting and then puts their own and lay out the page
+the smart thing would be to separate the form from the content.  
+
+Docx
+the x is for xml extensible markup language--you can mark up anything --identify features that are important (to you)
+
+in html, it is semantic.  it does not transfer the formatting.  good for both small and big screen to transfer content. form and content separate. 
+e.g. paragraph--it's a semantic structure so can look different --- indent or a space between? 
+
+paragraph is a logical unit (a semantic element), while italics is not a logical unit
+--
+
+semantics, style and content
+
+html doesn't do the following...
+--human readable
+
+--answer to aristotelian idea of separation of semantics, content and style
+
+daringfireball
+aaron schwartz
+
+--wikipedia and reddit comments accept mark down
+
+Pandoc
+try pandoc --V
