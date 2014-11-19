@@ -68,3 +68,31 @@ aaron schwartz
 
 Pandoc
 try pandoc --V
+
+———
+Basic Bash Commands
+
+
+Where am I?
+
+.  (one dot means here)
+
+tab  (to complete the command)
+pwd path working directory
+ls  list
+mkdir temp
+ls
+cd temp/
+ls
+touch test.txt
+ls
+echo "hello again" >> test.txt
+cat test.txt
+history
+
+history grep "hello
+
+-i  
+
+mkdir trash/
+mv target2.txt trash/
